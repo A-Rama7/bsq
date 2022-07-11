@@ -1,0 +1,4 @@
+perl generator.pl 10 10 3 > exemple.txt
+
+lit une ligne et la retourne dans un tableau
+à chaque saut de ligne, crée un nouveau tableau
